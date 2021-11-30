@@ -15,4 +15,12 @@ bier
 water
 pindakaas
 pepernoten
+<<<<<<< HEAD
 >>>>>>> sandra-naar-supermarkt
+=======
+wcpapier
+kalkoen
+pesto
+champagne
+tiramisu
+>>>>>>> kerstdiner
