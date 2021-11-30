@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 melk
 kip
 pindakaas
@@ -7,3 +8,11 @@ eieren
 kaas
 olijven
 honing
+=======
+chips
+cola
+bier
+water
+pindakaas
+pepernoten
+>>>>>>> sandra-naar-supermarkt
